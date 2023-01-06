@@ -74,6 +74,8 @@ int main(){
 			cout << "Opcao invalida!\n\n";
 			goto opcoes;
 	}
-		
+	
+	cout << endl;
+	system("pause");
 	return 0;
 }
